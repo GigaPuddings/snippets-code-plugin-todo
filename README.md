@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-todo/archive/refs/heads/mai
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-todo/archive/refs/tags/v1.5.6.zip
+https://github.com/GigaPuddings/snippets-code-plugin-todo/archive/refs/tags/1.5.6.zip
 ```
 
 This repository is synchronized from the main application repository by
