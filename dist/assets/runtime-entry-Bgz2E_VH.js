@@ -7886,7 +7886,7 @@ const hd = () => {
     target: "config",
     path: "todo",
     name: "Todo",
-    component: /* @__PURE__ */ vl(() => import("./index-0eCMk-Uy.js"))
+    component: /* @__PURE__ */ vl(() => import("./index-C7uGC6gT.js"))
   });
 };
 export {
