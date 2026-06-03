@@ -3,7 +3,7 @@
 Official installable plugin package for Snippets Code.
 
 - Plugin ID: `todo`
-- Version: `2.0.8`
+- Version: `2.0.9`
 - Source: `docs/plugin-packages/todo`
 - App compatibility: `>=2.1.4`
 
@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-todo/archive/refs/heads/mai
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-todo/archive/refs/tags/2.0.8.zip
+https://github.com/GigaPuddings/snippets-code-plugin-todo/archive/refs/tags/2.0.9.zip
 ```
 
 This repository is synchronized from the main application repository by
